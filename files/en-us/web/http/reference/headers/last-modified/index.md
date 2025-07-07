@@ -73,7 +73,7 @@ Last-Modified: Wed, 21 Oct 2015 07:28:00 GMT
 
 ## See also
 
-- {{HTTPHeader("Etag")}}
+- {{HTTPHeader("ETag")}}
 - [HTTP Conditional Requests](/en-US/docs/Web/HTTP/Guides/Conditional_requests) guide
 - {{HTTPHeader("If-Match")}}, {{HTTPHeader("If-Modified-Since")}}, {{HTTPHeader("If-Unmodified-Since")}}, {{HTTPHeader("If-None-Match")}} conditional request headers
 - {{HTTPStatus("304", "304 Not Modified")}}, {{HTTPStatus("412", "412 Precondition Failed")}} response status codes
